@@ -1,4 +1,4 @@
-### --- OOP Email Simulator --- ###
+### --- Email Simulator --- ###
 
 # --- Email Class --- #
 # Create the class, constructor and methods to create a new Email object.
